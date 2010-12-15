@@ -93,4 +93,4 @@
 
 ## Authors
 
-Marak Squires, Elijah Insua 
+Marak Squires, Elijah Insua, J Jurgens du Toit
